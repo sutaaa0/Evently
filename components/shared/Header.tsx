@@ -4,7 +4,6 @@ import Link from "next/link";
 import { Button } from "../ui/button";
 import NavItems from "./NavItems";
 import MobileNav from "./MobileNav";
-import { ModeToggle } from "../ModeToggle";
 
 const Header = () => {
   return (
